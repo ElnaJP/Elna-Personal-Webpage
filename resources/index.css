@@ -1,0 +1,78 @@
+CSS code
+
+
+h1 {
+font-family: papyrus;
+font-size: 25px;
+font-weight: bold;
+color: rgb(248, 247, 247);
+text-align: left;
+margin: 0px 10px 0px 60px;
+}
+
+
+
+
+
+p {
+    color: rgb(12, 11, 11);
+    font-size: 15px;;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+   
+   h2 {
+       font-family: times;
+       font-style: italic;
+       font-size: 16px;
+       text-align: center;
+   }
+   
+   
+   
+
+   
+   #main-content {
+       position: relative;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       flex-direction: column;
+       border: 1px solid #333;
+       background: rgba(255, 255, 255, 0.3);
+       padding: 15px 20px 18px 18px;
+       border-radius: 5px;
+       box-shadow: 2px 5px 5px #333;
+       box-sizing: border-box;
+       -moz-box-align: center;
+       align-self: center;
+       
+     }
+   div {
+       box-sizing: content-box;
+       margin: auto;
+         
+   }
+  
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 2em;
+    margin-block-end: 1em;
+    margin-inline-start: -0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+nav {
+    text-align: left;
+    color: #ccc;
+    font-size: small;
+}
+
+img {
+    font-size: 5px;
+    color: white;
+}
+
